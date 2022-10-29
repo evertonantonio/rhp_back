@@ -1,8 +1,8 @@
-package com.example.reuniaorhp.repository;
+package com.RHPback.projeto.repository;
 
-import com.example.reuniaorhp.model.Reuniao;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
+import com.RHPback.projeto.entities.Reuniao;
 
 
 @Repository
